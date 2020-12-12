@@ -1,0 +1,22 @@
+body
+{
+  background-color: #393e46;
+  color: #fbf6f0;
+  text-align: center;
+  padding: 30px;
+  border-spacing: 25px;
+}
+h1
+{
+  color: #fd8c04;
+}
+.form
+{
+  border: 10px solid #393e46;
+  border-radius: 14px;
+  color: black;
+  outline: none;
+  font-weight: 1000;
+  font-size: large;
+  font-family: sans-serif;
+}
